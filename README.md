@@ -207,4 +207,4 @@ URLResolver is available as a full free version, offering all features and updat
 Unlock the full potential of your Kodi experience with URLResolver — download now and enjoy seamless video playback!
 
 ---
-**Last updated:** 2026-09-17 05:50:25 UTC
+**Last updated:** 2026-09-17 11:09:35 UTC
